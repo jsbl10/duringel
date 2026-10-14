@@ -12,7 +12,7 @@ export function Contact() {
             </h2>
             <p className="text-lg text-muted-foreground leading-relaxed">
               {
-                "¿Tiene un proyecto en mente? Contáctenos para una consultoría profesional"
+                "¿Tiene algún proyecto en mente? Contáctenos para una consultoría profesional"
               }
             </p>
           </div>
